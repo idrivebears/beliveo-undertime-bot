@@ -6,3 +6,5 @@ How to run:
 -Chrome: Use tampermonkey to run the userscript
 
 -Firefox: Use Greasemonkey to run the userscript
+
+On the overtime/undertime page, use the start/stop buttons.
